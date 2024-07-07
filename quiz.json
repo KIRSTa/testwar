@@ -1,0 +1,105 @@
+{
+  "shortDescription": "Test your Bitcoin knowledge with this quiz.",
+  "questions": [
+    {
+      "question": "What is BTC?",
+      "answers": ["Coin", "Stock", "Token"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who made BTC?",
+      "answers": ["Nakamoto", "Buterin", "Lee"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "BTC max?",
+      "answers": ["21M", "100M", "10M"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "BTC start?",
+      "answers": ["2009", "2012", "2015"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "BTC uses?",
+      "answers": ["Crypto", "Fiat", "Stocks"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "BTC units?",
+      "answers": ["Satoshi", "Ether", "Ripple"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "BTC is?",
+      "answers": ["Decentral", "Central", "Private"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "BTC supply?",
+      "answers": ["Fixed", "Inflate", "Variable"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "BTC halving?",
+      "answers": ["4yrs", "5yrs", "6yrs"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "BTC store?",
+      "answers": ["Wallet", "Bank", "Vault"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "BTC algo?",
+      "answers": ["SHA256", "Ethash", "X11"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "BTC block?",
+      "answers": ["10min", "2min", "5min"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "BTC fork?",
+      "answers": ["Split", "Merge", "Swap"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "BTC trade?",
+      "answers": ["Exchange", "Market", "Store"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "BTC symbol?",
+      "answers": ["₿", "$", "€"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "BTC founder?",
+      "answers": ["Unknown", "Known", "Hidden"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "BTC peers?",
+      "answers": ["P2P", "P2S", "S2S"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "BTC first?",
+      "answers": ["Pizza", "Car", "House"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "BTC cap?",
+      "answers": ["21M", "18M", "15M"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "BTC tx?",
+      "answers": ["Public", "Private", "Hidden"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
